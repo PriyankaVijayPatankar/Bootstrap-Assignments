@@ -1,0 +1,23 @@
+.my-container{
+	height:100vh;
+	margin:auto;
+	background-color:lightgray;
+
+}
+
+.block{
+    	height:150px; 
+	min-height:30px;  
+    	background-color:yellow;
+	padding:10px;
+	display:flex;
+	justify-content:center;
+
+	align-items:center ;
+
+
+}
+
+.row-1{
+    	height:150px;	
+}
