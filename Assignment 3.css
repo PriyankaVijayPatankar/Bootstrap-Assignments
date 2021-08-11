@@ -1,0 +1,63 @@
+.my_navigation{
+	height:80px;
+
+}
+
+.banner{
+	height:800px;
+	background-image: url("https://cdn.pixabay.com/photo/2014/05/15/15/25/maharashtra-344966_960_720.jpg");
+	background-size:cover;
+	display:flex;
+	align-items:center;
+	
+
+}
+
+.banner_content{
+	height:450px;
+	background-color:rgba(255,255,255,0.7);
+	display:flex;
+	font-size:20px;
+
+}
+
+.banner_title{
+	font-size:53px;
+}
+
+.padd{
+	padding:40px;
+}
+
+.my_card{
+
+	margin-bottom:40px;
+	padding:10px;
+}
+
+.my-card{
+    	width: 400px !important;
+    	margin-top: 30px !important;
+}
+.my_group{
+
+	margin-bottom:40px;
+	padding:10px;
+}
+
+/* packages  */
+
+.my_title{
+	color:white;
+	font-size:53px;
+}
+
+
+.packages-bg{
+    	background-image: url('http://cdn.cnn.com/cnnnext/dam/assets/181010131059-australia-best-beaches-cossies-beach-cocos3.jpg');
+}
+
+.packages{
+    	padding-top: 50px;
+    	padding-bottom: 50px;
+}
